@@ -1,6 +1,6 @@
 # news_app
 
-A new Flutter project.
+News Flutter app made with state management, Provider.
 
 ## Getting Started
 
